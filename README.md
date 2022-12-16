@@ -11,4 +11,4 @@ https://github.com/marcnicolas0915/Weather-Dashboard
 
 ## Screenshot
 
-![website gif](./assets/images/weather-dash-pic.jpg)
+![weather-dash-pic](https://user-images.githubusercontent.com/117967802/208013257-5f6bc1bd-d253-4034-9932-765c44f1b818.jpg)
